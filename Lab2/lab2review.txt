@@ -1,0 +1,40 @@
+9 pts
+
+1. 
+
+Evidence looks ok.
+
+You could have joined the screenshots for better organization.
+
+
+2.
+
+Sufficient knowledge of the terms primary key, candidate key, and superkey.
+
+The distinction between a superkey and candidate key is not sufficiently
+discussed. Remember that a candidate key is the minimum set of superkeys. 
+
+
+3.
+
+You show a table, yet you do not discuss it, what is it? What are you trying to
+say with it?
+
+You do did not talk about data types in SQL, you just mention some common sense
+data types in computing, e.g., floating point, character. In SQL these are
+NUMERIC, CHAR, etc.
+
+You did not discuss what fields were -nullable-.
+
+
+4.
+
+The ``frist normal form'' has nothing to do with primary keys. Please check
+your notes and the textbook Chapter 6.1.
+
+The ``access rows by content only'' rule explanation is wrong. Please check
+your notes or the book Chapter 6.1.
+
+
+
+- Dr. Rivas
